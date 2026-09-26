@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Neha 👋
 
-<!--
-**nehhhaa/nehhhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 🤖 Machine Learning | 💻 DSA | 🚀 Software Development
 
-Here are some ideas to get you started:
+I’m passionate about building real-world projects, solving problems with Data Structures & Algorithms, and learning Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning
+
+- Machine Learning
+- Data Structures & Algorithms
+- Python
+- Computer Networks
+- DBMS & SQL
+- Cloud Computing
+
+### 🚀 Projects
+
+- 📈 Stock Price Prediction — Machine Learning + Streamlit
+- 🤖 More ML projects coming soon...
+
+### 💻 Tech Stack
+
+**Languages:** Python, C, SQL
+
+**ML:** Pandas, NumPy, Scikit-learn
+
+**Tools:** Git, GitHub, VS Code, google collab
+
+### 🎯 2026 Goals
+
+- Master DSA
+- Build strong ML projects
+- Contribute to open source
+- Become placement-ready
+
+---
+
+⭐ Thanks for visiting my profile!
